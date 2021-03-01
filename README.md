@@ -13,3 +13,7 @@ git log -> verifica em log os commits já realizados mostrando o hash do commit
 git diff nomedoarquivo.extensão -> utilizar antes do add, verificando com git status e verifica as diferenças do que tinha antes e o que foi alterado com o diff
 
 git checkout nomedoarquivo.extensão -> rollback para o ultimo commit valido
+
+
+
+git pull origin -> baixa todo conteudo do repositório remoto para o local
